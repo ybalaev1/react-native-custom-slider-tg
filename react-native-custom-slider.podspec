@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   # optional - use expanded license entry instead:
   # s.license    = { :type => "MIT", :file => "LICENSE" }
-  s.authors      = { "Your Name" => "yourname@email.com" }
+  s.authors      = { "Yanis Balaev" => "y.balaev@ya.ru" }
   s.platforms    = { :ios => "9.0" }
   s.source       = { :git => "https://github.com/github_account/react-native-custom-slider.git", :tag => "#{s.version}" }
 
